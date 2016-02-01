@@ -39,6 +39,7 @@ public class LifeControl : MonoBehaviour {
                 _morreu = true;
                 voodoo.GetComponent<Animator>().SetTrigger("diehit");
                 GameObject.FindGameObjectWithTag("GameController").SetActive(false);
+                GameObject.FindGameObjectWithTag("GameScore").GetComponent<GameScore>().SaveScore();
             }
             else {
                 voodoo.GetComponent<Animator>().SetTrigger("hit");

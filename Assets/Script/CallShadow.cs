@@ -6,7 +6,7 @@ public class CallShadow : MonoBehaviour {
     public GameObject[] sombra;
     private int num;
     private int ant;
-    public float delay;
+    private float delay;
     
     public int knivesCount;
     public float attackWait;
@@ -22,6 +22,7 @@ public class CallShadow : MonoBehaviour {
     IEnumerator SpawnWaves()
     {
         yield return new WaitForSeconds(startWait);
+        delay = attackWait;
         while (true)
         {
             for (int i = 0; i < knivesCount; i++)
@@ -30,9 +31,8 @@ public class CallShadow : MonoBehaviour {
                 {
                     num = (int)Random.Range(0.0f, 4.0f);
                 }
-                sombra[num].SetActive(true);
-                sombra[num].ShakeScale(new Vector3(0.3f, 0.3f, 0.3f), delay, 0f);
-                sombra[num].GetComponent<CallKnife>().PrepararAtaque(delay);
+
+                orderAtack(num, delay);
 
                 ant = num;
                 yield return new WaitForSeconds(attackWait);
@@ -43,5 +43,12 @@ public class CallShadow : MonoBehaviour {
             if(delay-1 < 0.5f)
                 delay = delay - 0.2f;
         }
+    }
+
+    void orderAtack(int shadowselect, float delay)
+    {
+        sombra[shadowselect].SetActive(true);
+        sombra[shadowselect].ShakeScale(new Vector3(0.3f, 0.3f, 0.3f), delay, 0f);
+        sombra[shadowselect].GetComponent<CallKnife>().PrepararAtaque(delay);
     }
 }

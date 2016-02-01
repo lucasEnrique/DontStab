@@ -16,7 +16,7 @@ public class GameScore : MonoBehaviour {
 
 	public void SaveScore()
 	{
-		if (PlayerPrefs.GetInt ("BestScore") < _score) 
+		if (PlayerPrefs.GetInt ("BestScore") <= _score) 
 		{
 			PlayerPrefs.SetInt("BestScore", _score);
 		}
