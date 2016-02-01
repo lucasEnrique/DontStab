@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 3dbb21fb0711f7540be130f3feb34995
+timeCreated: 1454244903
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_minicam-15_0
+    21300002: spritesheet_minicam-15_1
+    21300004: spritesheet_minicam-15_2
+    21300006: spritesheet_minicam-15_3
+    21300008: spritesheet_minicam-15_4
+    21300010: spritesheet_minicam-15_5
+    21300012: spritesheet_minicam-15_6
+    21300014: spritesheet_minicam-15_7
+    21300016: spritesheet_minicam-15_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet_minicam-15_0
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2777
+        width: 1225
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_minicam-15_1
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2782
+        width: 1224
+        height: 1053
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_minicam-15_2
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 2786
+        width: 1223
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_minicam-15_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1561
+        width: 1225
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_minicam-15_4
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1561
+        width: 1225
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_minicam-15_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 260
+        width: 1225
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_minicam-15_6
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 260
+        width: 1225
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_minicam-15_7
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 256
+        width: 1224
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheet_minicam-15_8
+      rect:
+        serializedVersion: 2
+        x: 4330
+        y: 256
+        width: 1226
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

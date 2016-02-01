@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: bd53ba3d4b23fcd4ca0a92992ef914bd
+timeCreated: 1454203015
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sombra_facas_0
+    21300002: sombra_facas_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sombra_facas_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 380
+        width: 1322
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.564636, y: 43.5468}
+        - {x: -251.43536, y: 14.546799}
+        - {x: -251.43536, y: 4.5467987}
+        - {x: -250.43536, y: 2.5467987}
+        - {x: -190.43536, y: -15.453201}
+        - {x: 4.564636, y: -42.4532}
+        - {x: 135.56464, y: -42.4532}
+        - {x: 252.56464, y: -26.453201}
+        - {x: 252.56464, y: 28.546799}
+        - {x: 133.56464, y: 43.5468}
+    - name: sombra_facas_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 30
+        width: 1322
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -210.43536, y: 53.91159}
+        - {x: -251.43536, y: 15.911591}
+        - {x: -251.43536, y: -6.0884094}
+        - {x: -236.43536, y: -13.088409}
+        - {x: -133.43536, y: -27.08841}
+        - {x: 13.564636, y: -53.08841}
+        - {x: 133.56464, y: -53.08841}
+        - {x: 252.56464, y: -22.08841}
+        - {x: 252.56464, y: 53.91159}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

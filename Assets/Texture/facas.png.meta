@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 65a421d7f0c682542855fe7ca8291e5f
+timeCreated: 1454183825
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: facas_0
+    21300002: facas_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: facas_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 382
+        width: 844
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 422, y: 33}
+        - {x: 416, y: 35}
+        - {x: 396, y: 39}
+        - {x: 311, y: 41}
+        - {x: 200, y: 35}
+        - {x: 155, y: 71}
+        - {x: 128, y: 71}
+        - {x: 121, y: 65}
+        - {x: -244, y: 29}
+        - {x: -422, y: 14}
+        - {x: -422, y: 8}
+        - {x: -417, y: 6}
+        - {x: -324, y: -25}
+        - {x: -23, y: -43}
+        - {x: 3, y: -43}
+        - {x: 109, y: -42}
+        - {x: 114, y: -71}
+        - {x: 152, y: -71}
+        - {x: 175, y: -38}
+        - {x: 374, y: -44}
+        - {x: 422, y: -36}
+    - name: facas_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 164
+        width: 862
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 300, y: -40}
+        - {x: 429, y: -35}
+        - {x: 431, y: -33}
+        - {x: 431, y: 36}
+        - {x: 346, y: 41}
+        - {x: 156, y: 36}
+        - {x: 148, y: 90}
+        - {x: 117, y: 90}
+        - {x: 120, y: 45}
+        - {x: -211, y: 44}
+        - {x: -248, y: 41}
+        - {x: -339, y: 26}
+        - {x: -424, y: 6}
+        - {x: -431, y: 3}
+        - {x: -431, y: -6}
+        - {x: -263, y: -42}
+        - {x: -194, y: -47}
+        - {x: 121, y: -45}
+        - {x: 119, y: -84}
+        - {x: 126, y: -90}
+        - {x: 144, y: -90}
+        - {x: 150, y: -82}
+        - {x: 151, y: -30}
+        - {x: 219, y: -39}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
