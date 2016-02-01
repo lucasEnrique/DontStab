@@ -253,6 +253,10 @@ Prefab:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 109802, guid: db4d7c6b259eb1943880fd64d264e159, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: db4d7c6b259eb1943880fd64d264e159, type: 2}
   m_IsPrefabParent: 0
@@ -390,6 +394,27 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 182063909}
+--- !u!1 &397999683 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 183496, guid: db4d7c6b259eb1943880fd64d264e159, type: 2}
+  m_PrefabInternal: {fileID: 95036737}
+--- !u!95 &397999684
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 397999683}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: cc03f2fde6b4d2049b2abaf33a04972d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &413483560
 GameObject:
   m_ObjectHideFlags: 0
