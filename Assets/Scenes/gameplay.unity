@@ -244,7 +244,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 109802, guid: db4d7c6b259eb1943880fd64d264e159, type: 2}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 109776, guid: db4d7c6b259eb1943880fd64d264e159, type: 2}
       propertyPath: m_IsActive
@@ -976,6 +976,18 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11452934, guid: 0fb95fad30f78d64784afe6f3b435769, type: 2}
       propertyPath: delay
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11452934, guid: 0fb95fad30f78d64784afe6f3b435769, type: 2}
+      propertyPath: knivesCoutWave
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 11452934, guid: 0fb95fad30f78d64784afe6f3b435769, type: 2}
+      propertyPath: startWait
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11452934, guid: 0fb95fad30f78d64784afe6f3b435769, type: 2}
+      propertyPath: StartAttackWait
       value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
