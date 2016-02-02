@@ -274,6 +274,18 @@ Prefab:
       propertyPath: m_Color.a
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 11453030, guid: db4d7c6b259eb1943880fd64d264e159, type: 2}
+      propertyPath: m_FontData.m_BestFit
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11453030, guid: db4d7c6b259eb1943880fd64d264e159, type: 2}
+      propertyPath: m_FontData.m_VerticalOverflow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11453030, guid: db4d7c6b259eb1943880fd64d264e159, type: 2}
+      propertyPath: m_RaycastTarget
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: db4d7c6b259eb1943880fd64d264e159, type: 2}
   m_IsPrefabParent: 0
